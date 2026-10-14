@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1791959733058,782,Home Page,200,OK,Thread Group 1-1,text,true,,12329,186,1,1,https://uni-reg-cloud.vercel.app/,778,0,431
+1791959733847,401,Student Login,200,OK,Thread Group 1-1,text,true,,438,260,1,1,https://uni-reg-cloud.vercel.app/api/login,401,0,0
+1791959734287,361,Course Details ,200,OK,Thread Group 1-1,text,true,,502,217,1,1,https://uni-reg-cloud.vercel.app/api/courses/A-CSE201,361,0,0
+1791959734649,408,My Registration,200,OK,Thread Group 1-1,text,true,,332,211,1,1,https://uni-reg-cloud.vercel.app/api/my-courses,408,0,0
+1791959735058,306,Logout,200,OK,Thread Group 1-1,text,true,,340,227,1,1,https://uni-reg-cloud.vercel.app/api/logout,306,0,0
+1791959735366,309,HTTP Request,200,OK,Thread Group 1-1,text,true,,12329,197,1,1,https://uni-reg-cloud.vercel.app/,308,0,0
